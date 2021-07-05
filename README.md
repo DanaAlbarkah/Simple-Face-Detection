@@ -3,7 +3,7 @@ This is a simple face detection code using Python for AI starters.
   
 I am using Windows 10 Pro with PyCharm as my IDE you can use whatever suits you.  
 
-** First open a new project and prepare to import openCV using the following steps**  
+**First open a new project and prepare to import openCV using the following steps**  
 
 1-Go to the terminal option at the bottom of the IDE window then type the following code.  
  ```
